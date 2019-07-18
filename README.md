@@ -14,4 +14,5 @@ Although distortion can be irregular or follow many patterns, the most commonly 
 * Yaml
 
 
-[![N|Solid](http://answers.opencv.org/upfiles/15291476076591841.png)]()
+Features added:
+* fisheye undistortion for videos
