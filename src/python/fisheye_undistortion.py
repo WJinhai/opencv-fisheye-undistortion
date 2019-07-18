@@ -1,5 +1,6 @@
 
 # python fisheye_undistortion.py
+#you can look to this post https://medium.com/@kennethjiang/calibrate-fisheye-lens-using-opencv-part-2-13990f1b157f
 import json
 import numpy as np
 import cv2,time, sys
